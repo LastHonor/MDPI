@@ -1,0 +1,1 @@
+pilot_it2_collision_assorted_targets_box_1_dis_1_occ-redyellow_0000.hdf5,False

@@ -7,7 +7,7 @@ UID: u7376801
 Supervisors: Dr. Peng Zhang, Dr. Cheng Xue
 
 
-This is work is based on DPI-Net from https://github.com/htung0101/Physion-particles.git
+This work is based on DPI-Net from https://github.com/htung0101/Physion-particles.git
 
 Contact: mingyu.sheng@anu.edu.au (Mingyu Sheng)
 
@@ -155,4 +155,3 @@ python my_eval_vis.py
     --saveavi 0 
 ```
 
-"# MDPI" 
